@@ -2,5 +2,7 @@
 {"sourceName": "默认仓库",
 "sourceUrl": "https://gitcode.net/m0_73513607/ysc1129/-/raw/master/ckzn.txt"},
 {"sourceName": "人人资源的仓库",
-"sourceUrl": "https://agit.ai/376242575/zzh/raw/branch/master/单仓.txt"}
+"sourceUrl": "https://agit.ai/376242575/zzh/raw/branch/master/单仓.txt"},
+{"sourceName": "ACK仓库",
+"sourceUrl": "https://agit.ai/152983126/ACK/raw/branch/master/%e4%b8%bb%e4%bb%93%e5%ba%93.txt"}
 ]}
