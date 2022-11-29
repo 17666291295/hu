@@ -1,6 +1,6 @@
 {"storeHouse": [
 {"sourceName": "展宁网络收集",
-"sourceUrl": ""},
+"sourceUrl": "https://gitcode.net/m0_73513607/ysc1129/-/raw/master/ckzn.txt"},
 {"sourceName": "安卓哥的仓",
 "sourceUrl": "https://gitcode.net/m0_73513607/ysc1129/-/raw/master/ckazg.txt"},
 {"sourceName": "人人资源的仓",
