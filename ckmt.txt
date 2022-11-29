@@ -2,7 +2,7 @@
 {"sourceName": "展宁网络收集",
 "sourceUrl": ""},
 {"sourceName": "安卓哥的仓",
-"sourceUrl": ""},
+"sourceUrl": "https://gitcode.net/m0_73513607/ysc1129/-/raw/master/ckazg.txt"},
 {"sourceName": "人人资源的仓",
 "sourceUrl": "https://agit.ai/376242575/zzh/raw/branch/master/单仓.txt"},
 {"sourceName": "张弘的仓",
