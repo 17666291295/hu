@@ -59,10 +59,6 @@
             "name": "agitai/小暴脾气🐙"
         },
         {
-            "url": "http://w.g9.pub:66/381203888/666.json",
-            "name": "熊猫是肥猫🐼"
-        },
-        {
             "url": "https://agit.ai/gcqi/gcqitvox01/raw/branch/master/XC.json",
             "name": "agitai/观察期🐹"
         },
