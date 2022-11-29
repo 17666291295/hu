@@ -1,0 +1,14 @@
+{"storeHouse": [
+{"sourceName": "展宁网络收集",
+"sourceUrl": ""},
+{"sourceName": "安卓哥的仓",
+"sourceUrl": ""},
+{"sourceName": "人人资源的仓",
+"sourceUrl": "https://agit.ai/376242575/zzh/raw/branch/master/单仓.txt"},
+{"sourceName": "张弘的仓",
+"sourceUrl": ""},
+{"sourceName": "涤灵苑仓",
+"sourceUrl": "https://agit.ai/gk0748/gk0/raw/branch/master/ls.txt"},
+{"sourceName":"多多应用的仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/1.txt"},
+{"sourceName":"星河软件的仓","sourceUrl": "https://agit.ai/pinghui/xinghe/raw/commit/a962c55002aad66177afa6e9888a25f6e25a9be4/%e9%87%8d%e5%91%bd%e5%90%8d113.txt"}
+]}
