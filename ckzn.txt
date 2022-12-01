@@ -126,14 +126,6 @@
 "url": "http://101.34.67.237/config/2",
 "name": "小雅dr🌰"
 },
-        {
-"url": "https://tvbox.cainisi.cf/",
-"name": "菜妮丝xBPQ💐"
-},
-{
-"url":"https://apis.fanyeyun.com/down.php/2a17a1efbc60c7dcf2eb90d56c5aaed5.txt",
-"name":"香雅情🏵"
-},
 {
             "url": "https://gitea.com/kljklljl/000/raw/branch/main/1.txt",
             "name": "gitea/KT猫🐏"
