@@ -55,6 +55,10 @@
             "name": "agitai/雷蒙影视🤖"
         },
         {
+"url":"https://apis.fanyeyun.com/down.php/2a17a1efbc60c7dcf2eb90d56c5aaed5.txt",
+"name":"香雅情🏵"
+},
+        {
             "url": "https://tvbox.cainisi.cf/",
             "name": "菜丝妮🥦"
         },
