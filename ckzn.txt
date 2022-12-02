@@ -136,10 +136,6 @@
 "name": "小雅dr🌰"
 },
 {
-            "url": "https://gitea.com/kljklljl/000/raw/branch/main/1.txt",
-            "name": "gitea/KT猫🐏"
-},
-{
             "url": "http://52bsj.vip:81/api/v3/file/get/10085/bc.json?sign=xsp5kSIa1eAE1S8PovRPjGdXLso6tyscXy_vdg5jY9I%3D%3A0",
             "name": "听听歌维护🌳"
 },
