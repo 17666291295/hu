@@ -25,8 +25,8 @@
             "url": "https://pan.css.lc/api/v3/file/get/89974/1_%E6%BA%90%E4%BA%AB%E5%AE%B6.txt?sign=asSbfKFasKXrxTtlmrA9T-kjbel3YQNoe6XBuRVD5sU%3D%3A0",
             "name": " 星河软件园👾"
         },
- { "url": "https://download.kstore.space/download/2888/XB/zy3.json", "name": "凯速2888自用3♦️"}, 
- { "url": "https://ghproxy.com/https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt", "name": "git加速博迪♠️" }, 
+ { "url": "https://download.kstore.space/download/2888/XB/zy3.json", "name": "凯速/2888自用3♦️"}, 
+ { "url": "https://ghproxy.com/https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt", "name": "git加速/博迪♠️" }, 
         {
             "url": "https://notabug.org/keke9088/mzytvbox/raw/main/Text/pyn0.json",
             "name": "notabug/可可9088♥️"
