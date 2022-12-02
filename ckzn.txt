@@ -4,6 +4,7 @@
             "url": "https://share.nite07.com/api/v3/file/source/29376/%E7%BA%BF%E8%B7%AF.txt?sign=xOlADwRUyG7UurvQCkWw12QXyu0uPp9s6cIt9TvBccg%3D%3A0",
             "name": "12.2展宁收集"
         },
+        {"url":"http://我不是.肥猫.love:63","name":"肥猫线路🐼"},
         {
             "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
             "name": "notabug/奇珍158️📟"
