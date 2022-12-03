@@ -2,8 +2,13 @@
     "urls": [        
                 {
             "url": "https://share.nite07.com/api/v3/file/source/29376/%E7%BA%BF%E8%B7%AF.txt?sign=xOlADwRUyG7UurvQCkWw12QXyu0uPp9s6cIt9TvBccg%3D%3A0",
-            "name": "12.2展宁收集"
+            "name": "12.4展宁收集"
         },
+        {"url":"https://agit.ai/wealways/maoTV/raw/branch/master/newmao.json","name":"agitai/侯小于🕌"},
+        {"url":"https://agit.ai/anguss/jnsj/raw/branch/main/tvbox011.json","name":"agitai/俺宿舍🀄️"},
+        {"url":"https://raw.iqiq.io/cloudplains/jnsj/main/out/tvbox.txt","name":"江南世家💒"},
+        {"url":"https://ghproxy.com/https://raw.githubusercontent.com/cloudplains/jnsj/main/out/tvbox.txt","name":"git加速/江南世家🏪"},
+        {"url":"https://cloudplains.github.io/jnsj/out/tvbox.txt","name":"Github/江南世家🏨"},
         {"url":"http://我不是.肥猫.love:63","name":"肥猫线路🐼"},
         {
             "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
