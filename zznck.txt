@@ -1,5 +1,5 @@
 {"storeHouse": [
-{"sourceName": "展宁博客gg.gg/zn177",
+{"sourceName": "展宁收集gg.gg/zn177",
 "sourceUrl": "https://gitcode.net/m0_73513607/ysc1129/-/raw/master/ckzn.txt"},
 {"sourceName": "张弘的仓库",
 "sourceUrl": "https://gitcode.net/m0_73513607/ysc1129/-/raw/master/zhck.txt"},
