@@ -57,7 +57,7 @@
             "name": "agitai/塔尔都👑"
         },
         {
-            "url": "https://agit.ai/n3rd/N3RD/raw/commit/1168f447b49f94e7c226b5b9dd27615dda23c15d/JN/lem.json",
+            "url": "https://agit.ai/n3rd/N3RD/raw/branch/master/JN/lem.json",
             "name": "agitai/雷蒙影视🤖"
         },
         {
