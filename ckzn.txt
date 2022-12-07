@@ -33,10 +33,6 @@
  { "url": "https://download.kstore.space/download/2888/XB/zy3.json", "name": "凯速/2888自用3♦️"}, 
  { "url": "https://ghproxy.com/https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt", "name": "git加速/博迪♠️" }, 
         {
-            "url": "https://notabug.org/keke9088/mzytvbox/raw/main/Text/pyn0.json",
-            "name": "notabug/可可9088♥️"
-        },
-        {
             "url": "https://agit.ai/lytv/tv/raw/branch/master/mytv.txt",
             "name": "agitai/老杨🍤"
         },
