@@ -1,9 +1,10 @@
 {
     "urls": [        
-                {
-            "url": "https://share.nite07.com/api/v3/file/source/29376/%E7%BA%BF%E8%B7%AF.txt?sign=xOlADwRUyG7UurvQCkWw12QXyu0uPp9s6cIt9TvBccg%3D%3A0",
-            "name": "12.4展宁收集"
-        },
+        {"url": "http://zzn.ct8.pl/zn.xml",
+            "name": "展宁12月14更新gg.gg/zn177"},
+        {"url":"https://agit.ai/anguss/jnsj/raw/commit/8baf47b54b456b938d2e4a446a6405892cab0f49/out/tvbox.txt","name":"agitai/俺不舍得🐷"},
+        {"url":"https://agit.ai/zhenkankan/169/raw/branch/master/js.json","name":"agitai/朕看看JS😻"},
+        {"url":"https://agit.ai/zhenkankan/169/raw/branch/master/ts.m3u8","name":"agitai/不良帅👹"},
         {"url":"https://agit.ai/wealways/maoTV/raw/branch/master/newmao.json","name":"agitai/侯小于🕌"},
         {"url":"https://agit.ai/anguss/jnsj/raw/branch/main/tvbox011.json","name":"agitai/俺宿舍🀄️"},
         {"url":"https://raw.iqiq.io/cloudplains/jnsj/main/out/tvbox.txt","name":"江南世家💒"},
