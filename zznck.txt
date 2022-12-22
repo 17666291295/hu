@@ -1,6 +1,6 @@
 {"storeHouse": [
 {"sourceName": "网络收集仓库",
-"sourceUrl": "https://gitcode.net/m0_73513607/ysc1129/-/raw/master/ckzn.txt"},
+"sourceUrl": "http://zzn.ct8.pl/znck.xml"},
 {"sourceName": "张弘的仓库",
 "sourceUrl": "https://gitcode.net/m0_73513607/ysc1129/-/raw/master/zhck.txt"},
 {"sourceName": "人人资源的仓库",
