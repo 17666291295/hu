@@ -1,6 +1,8 @@
 {"storeHouse": [
 {"sourceName": "人人资源的仓库",
 "sourceUrl": "https://agit.ai/376242575/zzh/raw/branch/master/单仓.txt"},
+{"sourceName": "高山流水的仓库",
+"sourceUrl": "https://agit.ai/butterfly/md/raw/branch/PLANT/DC-91-OL.json"},
 {"sourceName": "keke的仓库",
 "sourceUrl": "https://gitcode.net/m0_73513607/ysc1129/-/raw/master/keke.txt"},
 {"sourceName": "网络收集仓库",
