@@ -1,6 +1,7 @@
 {"storeHouse": [
 {"sourceName": "人人资源的仓库",
-"sourceUrl": "https://agit.ai/376242575/zzh/raw/branch/master/单仓.txt"},{"sourceName": "可可的仓库",
+"sourceUrl": "https://agit.ai/376242575/zzh/raw/branch/master/单仓.txt"},
+{"sourceName": "可可的仓库",
 "sourceUrl": "https://notabug.org/keke9088/TVBOX/raw/master/%e6%9c%ac%e5%9c%b0%e4%bb%93%e5%ba%93.json"},
 {"sourceName": "网络收集仓库",
 "sourceUrl": "http://zzn.ct8.pl/znck.xml"}
