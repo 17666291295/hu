@@ -2,7 +2,7 @@
 {"sourceName": "人人资源的仓库",
 "sourceUrl": "https://agit.ai/376242575/zzh/raw/branch/master/单仓.txt"},
 {"sourceName": "JM的仓库",
-"sourceUrl": "https://agit.ai/84816647/Tv/raw/branch/master/jmck.json"},
+"sourceUrl": "https://agit.ai/jllyzjs/zzn/raw/branch/master/keke.txt"},
 {"sourceName": "网络收集仓库",
 "sourceUrl": "http://zzn.ct8.pl/znck.xml"}
 ]}
