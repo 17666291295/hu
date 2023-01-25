@@ -9,7 +9,6 @@
 {"key" : "drpy_js_酷云77","name" : "酷云七七JS","type" : 3,"api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext" : "https://apis.fanyeyun.com/down.php/caa5502fd0f6554128d7b735a37bc0c8.js"},
 {"key":"py_kunyu77","name":"酷云七七PY","type":3,"api":"py_kunyu77","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://apis.fanyeyun.com/down.php/effd7b5e75b77edcf027fe64067eb9af.py"},
-{"key": "zhanning777","name": "猫看看","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://mkk.gotka.top/api.php/v1.vod"},
 {"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider"        ,"name":"360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key": "csp_xml_taopian","name": "淘片","type": 0,"api": "https://taopianzy.com/home/cjapi/as/mc10/vod/xml/m3u8","categories": []}, 
