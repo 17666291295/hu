@@ -6,5 +6,5 @@
 {"sourceName": "keke的仓库",
 "sourceUrl": "https://gitcode.net/m0_73513607/ysc1129/-/raw/master/keke.txt"},
 {"sourceName": "网络收集仓库",
-"sourceUrl": "https://gitcode.net/m0_73513607/ysc1129/-/raw/master/znck.xml"}
+"sourceUrl": "https://gitcode.net/m0_73513607/ysc1129/-/raw/master/znck.txt"}
 ]}
