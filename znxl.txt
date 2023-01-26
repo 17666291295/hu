@@ -107,7 +107,7 @@
             "quickSearch": 1,
             "filterable": 1,
 	    "jar":"https://gitcode.net/m0_73513607/ysc1129/-/raw/master/%E6%96%B0%E8%A7%86%E8%A7%89.jar"},
-{"key": "Bili","name": "B站哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/m0_73513607/ysc1129/-/raw/master/B%E7%AB%99%E7%BB%BC%E5%90%88.json","jar":"https://gitcode.net/m0_73513607/ysc1129/-/raw/master/B%E7%AB%99.jar"},
+{"key": "Bili","name": "B站哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/m0_73513607/ysc1129/-/raw/master/B%E7%AB%99.json","jar":"https://gitcode.net/m0_73513607/ysc1129/-/raw/master/B%E7%AB%99.jar"},
 {"key": "csp_XYQ_lu1",
       "name": "️电视直播",
       "type": 3,
