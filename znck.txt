@@ -1,7 +1,7 @@
 {
     "urls": [        
         {"url": "http://zzn.ct8.pl/zn.xml",
-            "name": "2月9日更新.博客gg.gg/zn177"},
+            "name": "2月12日更新.博客gg.gg/zn177"},
         {"url": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/ysj.json","name":"小易茶行🌱"},
         {"url": "https://agit.ai/1452635819/h/raw/branch/master/L1","name":"agitai/HL1🌹"},
         {"url": "https://agit.ai/1452635819/h/raw/branch/master/L2","name":"agitai/HL2🍄"},
