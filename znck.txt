@@ -3,6 +3,35 @@
         {"url": "http://zzn.ct8.pl/zn.xml",
             "name": "2月15日更新.博客gg.gg/zn177"},
             {"url": "https://download.kstore.space/download/2863/01.txt","name":"潇洒空间💝"},
+            {
+            "url": "https://try.gitea.io/xcxc8/mytv/raw/branch/main/TV.json",
+            "name": "白嫖影视🔯"
+        },
+          {
+            "url": "http://9xi4o.tk/0725.json",
+            "name": "四K云盘接口⛎"
+        },
+{
+               "url": "http://drpy.site/js1",
+                "name": "小雅专用♊️"
+      },
+      {
+            "url": "https://gitee.com/hjf521/000/raw/master/%E8%A5%BF%E5%A4%8F.bmp",
+            "name": "西夏影视①🆔"
+        },
+ 
+         {
+            "url": "https://agit.ai/CloudMist/TVBox/raw/branch/master/wyh.json",
+            "name": "西夏影视②🅰"
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "西夏影视③🅱"
+        },
+        {
+            "url": "http://tv.lmlemon.com/app/yuan/lk.json",
+            "name": "西夏影视④🉑"
+        },
         {"url": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/ysj.json","name":"小易茶行🌱"},
         {"url": "https://agit.ai/1452635819/h/raw/branch/master/L1","name":"agitai/HL1🌹"},
         {"url": "https://agit.ai/1452635819/h/raw/branch/master/L2","name":"agitai/HL2🍄"},
