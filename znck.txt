@@ -1,7 +1,7 @@
 {
     "urls": [        
         {"url": "http://zzn.ct8.pl/zn.xml",
-            "name": "2月15日更新.博客gg.gg/zn177"},
+            "name": "2月19日更新.博客gg.gg/zn177"},
             {"url": "https://download.kstore.space/download/2863/01.txt","name":"潇洒空间💝"},
             {
             "url": "https://try.gitea.io/xcxc8/mytv/raw/branch/main/TV.json",
