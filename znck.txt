@@ -1,6 +1,6 @@
 {
     "urls": [        
-        {"url": "https://gitcode.net/m0_73513607/ysc1129/-/raw/master/zn.xml",
+        {"url": "https://gitcode.net/m0_73513607/ysc1129/-/raw/master/zn.xml?inline=false",
             "name": "2月24日更新微信zhanning777"},
             {"url": "https://download.kstore.space/download/2863/01.txt","name":"潇洒空间💝"},
             {
