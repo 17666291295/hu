@@ -1,7 +1,7 @@
 {
     "urls": [        
         {"url": "http://zzn.ct8.pl/zn.xml",
-            "name": "2月24日更新微信zhanning777"},
+            "name": "3月10日更新微信zhanning777"},
             {"url": "https://download.kstore.space/download/2863/01.txt","name":"潇洒空间💝"},
             {"url": "https://agit.ai/W-TV/xiaomian/raw/branch/master/xmtv.json","name":"免费资源🍇"},
             {
