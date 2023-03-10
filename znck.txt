@@ -3,6 +3,7 @@
         {"url": "http://zzn.ct8.pl/zn.xml",
             "name": "2月24日更新微信zhanning777"},
             {"url": "https://download.kstore.space/download/2863/01.txt","name":"潇洒空间💝"},
+            {"url": "https://agit.ai/W-TV/xiaomian/raw/branch/master/xmtv.json","name":"免费资源🍇"},
             {
             "url": "https://try.gitea.io/xcxc8/mytv/raw/branch/main/TV.json",
             "name": "白嫖影视🔯"
