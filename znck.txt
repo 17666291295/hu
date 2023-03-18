@@ -2,6 +2,7 @@
     "urls": [        
         {"url": "http://zzn.ct8.pl/zn.xml",
             "name": "3月18日更新微信zhanning777"},
+            {"url": "https://raw.githubusercontent.com/Tangsan99999/-/master/newtang.bmp","name":"唐长老新🌐"},
             {"url": "https://download.kstore.space/download/2863/01.txt","name":"潇洒空间💝"},
             {"url": "https://agit.ai/W-TV/xiaomian/raw/branch/master/xmtv.json","name":"免费资源🍇"},
             {
