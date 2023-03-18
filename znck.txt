@@ -2,6 +2,7 @@
     "urls": [        
         {"url": "http://zzn.ct8.pl/zn.xml",
             "name": "3月18日更新微信zhanning777"},
+            {"url": "https://agit.ai/VivoMax/ddtv/raw/branch/master/%E9%BE%99%E9%97%A8%E5%BD%B1%E8%A7%86.json","name":"龙门影视🌐"},
             {"url": "https://download.kstore.space/download/2863/01.txt","name":"潇洒空间💝"},
             {"url": "https://agit.ai/W-TV/xiaomian/raw/branch/master/xmtv.json","name":"免费资源🍇"},
             {
