@@ -399,7 +399,6 @@
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/dp77.json",
             "name": "线路11👘"
-        },
-        {"url": "https://pan.losfer.cn/down.php/56b8af2c17c3c983aa6f68d698d62222.xml&zzn","name":"线路10♋️"}
+        }
     ]
 }
