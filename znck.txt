@@ -399,6 +399,6 @@
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/dp77.json",
             "name": "线路11👘"
         },
-        {"url": "https://www.cloudewl.cn/down.php/61eb740490d8053cf7d7e674d8eacbc8.xml","name":"线路10♋️"}
+        {"url": "https://pan.96fg.com/down.php/a419520f79d83b7595ed7bc31dfe259b.xml","name":"线路10♋️"}
     ]
 }
