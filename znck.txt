@@ -2,6 +2,7 @@
     "urls": [        
         {"url": "http://zzn.ct8.pl/zn.xml",
             "name": "4月12日更新微信zhanning777"},
+            {"url": "https://agit.ai/lcx/11/raw/branch/master/12","name":"刘慈欣🕵"},
 {"url": "https://agit.ai/wifi/ts/raw/branch/master/210.bmp","name":"warning😿"},       
 {"url": "https://agit.ai/kvymin/TVRule/raw/branch/main/config.json","name":"TVRule☎️"},
 {"url": "https://ghproxy.com/https://raw.githubusercontent.com/iswhat/TVboxoconfigbest/main/a.json","name":"配置7git🕹"},
