@@ -1,91 +1,91 @@
 {
 
-   "spider":"http://118.89.95.72/yydd/jar/xBPQ.jar",
-   "wallpaper": "http://118.89.95.72/yydd/img/index.php",
-"lives": [
-   {"name": "live",
-      "type": 0,
-      "playerType": 1,
-      "url": "http://118.89.95.72/yydd/tv/桥本香菜.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+“蜘蛛”:“http://118 . 89 . 95 . 72/yydd/jar/xbpq . jar”，
+“壁纸”:“http://118 . 89 . 95 . 72/yydd/img/index . PHP”，
+"生活":[
+{ "姓名":"直播"，
+【类型】:0，
+【player type】:1、
+" URL ":" http://118 . 89 . 95 . 72/yydd/TV/桥本香菜. txt "，
+" EPG ":" http://EPG . 112114 . XYZ/？ch = { name } & date = { date } "，
+【logo】:"https://epg.112114.xyz/logo/{name}。巴布亚新几内亚"
         }
     ],
-   "sites": [
-{"key":"csp_hsck","name":"黄仓库〔SP〕","api":"csp_Hsck","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://hscangku.com"},
-{"key":"drpy_js_香蕉直播","name":"香蕉直播js","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"http://118.89.95.72/yydd/abc/drpy2.min.js","ext":"http://118.89.95.72/yydd/js/ss直播.js"},
-{"key":"drpy_js_天天综合1","name":"天天综合1[js][点筛选]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"http://118.89.95.72/yydd/abc/drpy2.min.js","ext":"http://118.89.95.72/yydd/js/天天综合1.js"},
-{"key":"drpy_js_综合直播1","name":"综合直播1[js][点筛选]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"http://118.89.95.72/yydd/abc/drpy2.min.js","ext":"http://118.89.95.72/yydd/js/综合直播1.js"},
-//{"key":"drpy_js_18JTV","name":"18JTV[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"http://118.89.95.72/yydd/abc/drpy2.js","ext":"http://wp.xn--yi7aa.top:3102/down.php/34ad8b6b8941bbf16201b168206113f1.js"},
-{"key": "草莓秒播","name": "草莓秒播[js]","type": 3,"api": "http://118.89.95.72/yydd/abc/drpy2.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://118.89.95.72/yydd/js/草莓秒播.js"},
-{"key":"drpy_js_黄仓库123","name":"黄仓库123[js][翻墙]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"http://118.89.95.72/yydd/abc/drpy2.min.js","ext":"http://118.89.95.72/yydd/js/黄仓库123.js"},
+"站点":[
+{"key":"csp_hsck "，" name ":"黄仓库『SP』『API』:" CSP _ Hsck "，" type":3，" filterable":1，" quickSearch":1，" Search":1，" ext":"http://hscangku.com"}，
+{"key":"drpy_js_香蕉直播“，”名称“:”香蕉直播js”、“类型”:3、“可搜索”:1、“快速搜索”:1、“可过滤”:1、“API”:“http://118 . 89 . 95 . 72/yydd/ABC/drpy 2 . min . js”、“ext”:“http://118 . 89 . 95 . 72/yydd/js/ss直播。js"}，
+{"key":"drpy_js_天天综合1 "，"姓名":"天天综合1[js][点筛选]、“类型”:3、“可搜索”:1、“快速搜索”:1、“可过滤”:1、“API”:“http://118 . 89 . 95 . 72/yydd/ABC/drpy 2 . min . js”、“ext”:“http://118 . 89 . 95 . 72/yydd/js/天天综合1.js"}，
+{"key":"drpy_js_综合直播1 "，"姓名":"综合直播1[js][点筛选]、“类型”:3、“可搜索”:1、“快速搜索”:1、“可过滤”:1、“API”:“http://118 . 89 . 95 . 72/yydd/ABC/drpy 2 . min . js”、“ext”:“http://118 . 89 . 95 . 72/yydd/js/综合直播1.js"}，
+{"钥匙":" drpy_js_18JTV ","名称":" 18JTV[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"http://118.89.95.72/yydd/abc/drpy2.js","ext":"http://wp.xn--yi7aa.top:3102/down.php/34ad8b6b8941bbf16201b168206113f1.js"},
+{"key ":"草莓秒播“，”名称“:”草莓秒播[js]，"类型":3，" API ":" http://118 . 89 . 95 . 72/yydd/ABC/drpy 2 . js "，"可搜索":1，"快速搜索":1，"可过滤":1，" ext ":" http://118 . 89 . 95 . 72/yydd/js/草莓秒播. js"}，
+{"key":"drpy_js_黄仓库123”、“名称”:黄仓库123[js]翻墙]、“类型”:3、“可搜索”:1、“快速搜索”:1、“可过滤”:1、“API”:“http://118 . 89 . 95 . 72/yydd/ABC/drpy 2 . min . js”、“ext”:“http://118 . 89 . 95 . 72/yydd/js/黄仓库123.js"}，
 {
-"key":"csp_星辰成人版","name":"星辰成人版","type":3,"api":"csp_XBPQ","jar":"http://mgz.eoes.top/down.php/fd3cefc7302f3a39a442682f802b11e5.jar", "searchable":1,"quickSearch":1,"filterable":0,"ext":{"请求头":"手机","站名":"星辰成人版","主页url":"http://qingyunzy.com/","数组":"thumb lazyload\"&&</ssmall>", "标题":"title=\"&&\"","图片":"data-original=\"&&\"",
-    "线路数组": "#playlist&&</li>",
-    "线路标题": "toggle=\"tab\">&&</a",
-    "播放组数": "overflow: auto&&</ul>",
-    "播放列表": "<a&&/a>",
-    "播放链接": "href=\"&&\"",
+"关键":" csp_星辰成人版“，”名称“:”星辰成人版"，" type":3，" api":"csp_XBPQ "，" jar ":" http://mgz . eoes . top/down . PHP/FD 3 cefc 7302 F3 a 39 a 442682 f 802 b 11e 5 . jar "，" searchable":1，" quickSearch":1，" filterable":0，" ext":{ "请求头":"手机","站名":"星辰成人版","主页url":"http://qingyunzy.com/"，"数组":" thumb lazyload "&&</ssmall > "，"标题":" title= "&& " "，"图片":" data-original= "&& " "，
+"线路数组":" #playlist&&</li > "，
+"线路标题":"切换= "tab ">&&</a "，
+"播放组数":"溢出:自动&&</ul > "，
+"播放列表":" < a&&/a > "，
+"播放链接":" href= "&& " "，
     "播放标题": ">&&<",
-    "影片类型": "类型:&&</a>",
+"影片类型": "类型:&&</a > "，
     "影片状态": "状态:&&</p>",
     "影片年代": "年份:&&</p>",
     "影片地区": "地区:&&</p>",
     "导演":"导演:&&</p>",
     "主演":"主演:&&</p>",
     "简介": "NGDIgrfL&&</p>",
-    "播放链接": "href=\"&&\"",
+    "播放链接": " href= "&& " ",
 "免嗅":"1",
-"搜索url":"http://137.175.73.220:333/vodsearch/{wd}----------{pg}---.html","嗅探词":".m3u8#.mp4", "分类url":"http://137.175.73.220:333/vodtype/{cateId}-{catePg}.html","分类":"美乳巨乳&亚洲无码&成人动漫&欧美极品&女优系列&网红主播&HEY诱惑&国产自拍",
+"搜索url ":“http://137。175 .73 .220:333/VOD搜索/{ wd }-{ pg }-.html ","嗅探词":".m3u8#.mp4", "分类url":"http://137.175.73.220:333/vodtype/{cateId}-{catePg}.html","分类":"美乳巨乳&亚洲无码&成人动漫&欧美极品&女优系列&网红主播&HEY诱惑&国产自拍",
 "分类值": "1&3&5&8&10&12&14&15&17"}},
 {
-"key":"csp_191小黄车","name":"91小黄车","type":3,"api":"csp_XBPQ","jar":"http://118.89.95.72/ABxkl/jar/xkl0525.jar;md5;478a5cbd0ef4fa23b183b98bd8e8e914", "searchable":1,"quickSearch":1,"filterable":0,"ext":{"请求头":"手机","站名":"91小黄车","主页url":"https://hgw.xhc10.top/","数组":"<a&&</div></div></div>", "标题":"title=\"&&\"","图片":"data-original=\"&&\"","链接":"href=\"https://hgw.xhc10.top/?m=vod-play-id-+?m=vod-detail-id-&&.html+-src-1-num-1.html",
-"跳转播放链接":"mac_url=\"&&\"",
-"免嗅":"1","副标题": "fleft category\">&&</div>+fright views\">&&</a>","直接播放":"1","嗅探词":".m3u8#.mp4", "分类url":"https://hgw.xhc10.top/?m=vod-type-id-{cateId}-pg-{catePg}.html","分类": "日本无码&黑丝诱惑&自拍偷拍&激情动漫&网红主播&三级伦理",
+"钥匙":“csp_191小黄车","名称":"91小黄车","类型":3,"api":"csp_XBPQ","jar":"http://118.89.95.72/ABxkl/jar/xkl0525.jar;md5;478a5cbd0ef4fa23b183b98bd8e8e914", "searchable":1,"quickSearch":1,"filterable":0,"ext":{"请求头":"手机","站名":"91小黄车","主页url":"https://hgw.xhc10.top/","数组":"<a&&</div></div></div>", "标题":"title=\"&&\"","图片":"data-original=\"&&\"","链接":"href=\"https://hgw.xhc10.top/?m=vod-play-id-+?m=vod-detail-id-&&.html+-src-1-num-1.html",
+"跳转播放链接":" mac_url= "&& " ",
+"免嗅":"1","副标题": " f左侧类别" > & & </div >+惊骇视图" > &&</a > ","直接播放":"1","嗅探词":".m3u8#.mp4", "分类url":"https://hgw.xhc10.top/?m=vod-type-id-{cateId}-pg-{catePg}.html","分类": "日本无码&黑丝诱惑&自拍偷拍&激情动漫&网红主播&三级伦理",
     "分类值": "1&2&3&4&5&6"}},
-{"key":"csp_老兵视频","name":"老兵视频","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"发布地址": " www.laobing1.buzz","分类url": "https://2zz.laobing1.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html","直接播放": "1","数组":"<a&&</div></a></div>","首页": "0","图片": "src=\"&&\"","标题": "alt=\"&&\"","链接": "href=\"&&\"[替换:type>>play#.html>>/sid/1/nid/1.html]","搜索url": "https://2zz.laobing1.buzz/index.php/vod/search/page/{pg}/wd/{wd}.html","分类": "国产自拍&欧美极品&三级自慰&重咸口味&日韩无码&强奸乱伦&AV明星&HEYZO&中文字幕&动漫精品&极骚萝莉&人妖视频","分类值": "1&6&13&2&7&14&8&15&9&10&11&12"}},
+{"钥匙":" csp_老兵视频","名称":"老兵视频","类型":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"发布地址": " www.laobing1.buzz","分类url": "https://2zz.laobing1.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html","直接播放": "1","数组":"<a&&</div></a></div>","首页": "0","图片": "src=\"&&\"","标题": "alt=\"&&\"","链接": "href=\"&&\"[替换:type>>play#.html>>/sid/1/nid/1.html]","搜索url": "https://2zz.laobing1.buzz/index.php/vod/search/page/{pg}/wd/{wd}.html","分类": "国产自拍&欧美极品&三级自慰&重咸口味&日韩无码&强奸乱伦&AV明星&HEYZO&中文字幕&动漫精品&极骚萝莉&人妖视频","分类值": "1&6&13&2&7&14&8&15&9&10&11&12"}},
 
-{"key":"独家揭秘","name":"独家揭秘","type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"","主页url":"https://www.dujjm.buzz","数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","标题":"title=\"&&\"","副标题":"text-right\">&&</span>","简介":"description\" content=\"&&在线","链接":"href=\"&&\"","跳转播放链接":"var player_*\"url\":\"&&\"","搜索模式":"1","搜索url":"https://www.dujjm.buzz/index.php/vod/search/page/{pg}/wd/{wd}.html","分类二次截取":" <!-- 搜索框热搜词 -->&&target=\"_blank\">🌐导航","分类数组":"<li&&</li>","分类标题": ">&&/a>", "分类ID":"href=\"/index.php/vod/type/id/&&.html","分类url":"https://www.dujjm.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
-{"key":"csp_绿茶","name":"绿茶","type":3,"api":"csp_XBPQ","jar":"http://mgz.eoes.top/down.php/fd3cefc7302f3a39a442682f802b11e5.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":{"请求头":"手机","站名":"","主页url":"https://03.508723.xyz/","数组":"stui-vodlist__item\">&&</li>","标题":"title=\"&&\"","图片":"data-original=\"&&\"","链接": "href=\"&&\"[替换:video_detail>>video_conter]","跳转播放链接":"<iframe src=\"/Static/Home/VideoJS/?Play=\"&&\"","免嗅":"0","直接播放":"1","搜索url":"https://03.508723.xyz/?m=video_search*{wd}*{pg}","嗅探词":".m3u8#.mp4", "分类url":"https://03.508723.xyz/?m=video_list*{cateId}*{catePg}","分类":"亚洲情色&热门女优&中文字幕&国产自拍&无码专区&伦理三级&制服师生&强奸乱伦&丝袜美腿&人妻熟女&欧美性爱&4K岛国&韩国资源&卡通动漫&人妖人兽&男同女同&VR资源&JAV高清","分类值": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&18"}},
+{"钥匙":"独家揭秘","名称":"独家揭秘","类型":3," api ":"csp_XBPQ", "searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"","主页url":"https://www.dujjm.buzz","数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","标题":"title=\"&&\"","副标题":"text-right\">&&</span>","简介":"description\" content=\"&&在线","链接":"href=\"&&\"","跳转播放链接":"var player_*\"url\":\"&&\"","搜索模式":"1","搜索url":"https://www.dujjm.buzz/index.php/vod/search/page/{pg}/wd/{wd}.html","分类二次截取":" <!-- 搜索框热搜词 -->&&target=\"_blank\">🌐导航","分类数组":"<li&&</li>","分类标题": ">&&/a>", "分类ID":"href=\"/index.php/vod/type/id/&&.html","分类url":"https://www.dujjm.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
+{"钥匙":csp_绿茶,"名称":"绿茶","类型":3,“蜜蜂”:"csp_XBPQ","jar":"http://mgz.eoes.top/down.php/fd3cefc7302f3a39a442682f802b11e5.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":{"请求头":"手机","站名":"","主页url":"https://03.508723.xyz/","数组":"stui-vodlist__item\">&&</li>","标题":"title=\"&&\"","图片":"data-original=\"&&\"","链接": "href=\"&&\"[替换:video_detail>>video_conter]","跳转播放链接":"<iframe src=\"/Static/Home/VideoJS/?Play=\"&&\"","免嗅":"0","直接播放":"1","搜索url":"https://03.508723.xyz/?m=video_search*{wd}*{pg}","嗅探词":".m3u8#.mp4", "分类url":"https://03.508723.xyz/?m=video_list*{cateId}*{catePg}","分类":"亚洲情色&热门女优&中文字幕&国产自拍&无码专区&伦理三级&制服师生&强奸乱伦&丝袜美腿&人妻熟女&欧美性爱&4K岛国&韩国资源&卡通动漫&人妖人兽&男同女同&VR资源&JAV高清","分类值": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&18"}},
 
   {
-            "key": "lijav",
-            "name": "💕LiJav",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
+            "钥匙": “利加夫”,
+            "名称": 关于LiJav,
+            "类型": 3,
+            " api ": " csp_XBPQ ",
+            “风格”: {
+                "类型": "矩形",
+                "比率": 1.5
             },
-            "ext": {
+            "分机": {
                 "直接播放": 1,
-                "主页url": "https://lijav.com/",
-                "数组": "<a&&</div></a><div",
-                "二次截取": "grid_2_date&&footer_root",
-                "图片": "https://pics.dmm.co.jp/digital/video/1mgold00030/1mgold00030pl.jpg",
-                "标题": "title\"&&\"",
-                "链接": "href=\"&&\"",
-                "简介": "div[class=\"homecoverheader_1_overlay\"]&&",
-                "线路数组": "div[class=\"swiper-slide common_video_swiper_item\"]&&</div>",
-                "线路标题": "div[class=\"homecoverheader_1_title\"]&&</div>",
-                "分类url": "https://lijav.com/{cateId}?page={catePg}",
-                "分类": "最受歡迎$https://lijav.com/trending#每月主题$https://lijav.com/all?genre=汗だく#有码影片$https://lijav.com/censored#无码影片$https://lijav.com/uncensored#中文字幕$https://lijav.com/chinese-sub#国产$https://lijav.com/all?genre=國產AV"
+                "主页url ": " https://lijav.com/",
+                "数组": " < a&&</div></a><div ",
+                "二次截取": " grid _ 2 _ date & & footer _ root ",
+                "图片": " https://pics . DMM . co . jp/digital/video/1 mgold 00030/1 mgold 00030 pl . jpg ",
+                "标题": "标题" && " ",
+                "链接": " href= "&& " ",
+                "简介": " div[class = " homecoverheader _ 1 _ overlay "]& & ",
+                "线路数组": " div[class = " swiper-slide common _ video _ swiper _ item "]& & </div > ",
+                "线路标题": " div[class = " homecoverheader _ 1 _ title "]& & </div > ",
+                "分类url ": "https://lijav.com/{cateId}？page={catePg} ",
+                "分类": "最受歡迎$https://lijav.com/trending#每月主题$https://lijav.com/all？流派=汗だく#有码影片$ https://lijav . com/审查#无码影片$ https://lijav . com/unsensored #中文字幕$ https://lijav . com/Chinese-sub #国产$https://lijav.com/all？流派=國產AV "
             }
         },
-{"key":"乱伦群视频","name":"乱伦群视频","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"https://luanlunqun.cc/","主页url":"https://web.llq4.xyz/llq","数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","标题":"title=\"&&\"","副标题":"text-right\">&&</span>","简介":"description\" content=\"&&在线","链接":"href=\"&&\"[替换:llq/>>空]","跳转播放链接":"var player_*url\":\"&&\"","搜索模式":"1","搜索url":"https://web.llq4.xyz/llq/index.php/vod/search/page/{pg}/wd/{wd}.html","分类二次截取":"<!-- 分类列表 -->&&<!-- end 分类列表 -->","分类数组":"<a&&</a>","分类标题":">&&</a>[不包含:更多]","分类ID":"/llq/index.php/vod/*/id/&&.html","分类url":"https://web.llq4.xyz/llq/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
-{"key":"韩国小姐姐","name":"韩国小姐姐","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"https://www.xjiejie.cc/","请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","主页url":"https://www.xiaojiejie.icu","数组":"stui-vodlist__thumb lazyload&&</a","图片":"style=*url(&&)","标题":"title=\"&&\"","副标题":"text-right\">&&</span>","简介":"description\" content=\"&&剧情","链接":"href=\"&&\"","跳转播放链接":"var player_*\"url\":\"&&\"","搜索模式":"1","搜索url":"https://www.xiaojiejie.icu/search/{wd}----------{pg}---.html","分类二次截取":"","分类数组":"<a&&/a","分类标题":">&&<","分类ID":"/nvshen/&&.html","分类url":"https://www.xiaojiejie.icu/nvshen/{cateId}-{catePg}.html;;z"}},
+{"钥匙":"乱伦群视频","名称":"乱伦群视频","类型":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"https://luanlunqun.cc/","主页url":"https://web.llq4.xyz/llq","数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","标题":"title=\"&&\"","副标题":"text-right\">&&</span>","简介":"description\" content=\"&&在线","链接":"href=\"&&\"[替换:llq/>>空]","跳转播放链接":"var player_*url\":\"&&\"","搜索模式":"1","搜索url":"https://web.llq4.xyz/llq/index.php/vod/search/page/{pg}/wd/{wd}.html","分类二次截取":"<!-- 分类列表 -->&&<!-- end 分类列表 -->","分类数组":"<a&&</a>","分类标题":">&&</a>[不包含:更多]","分类ID":"/llq/index.php/vod/*/id/&&.html","分类url":"https://web.llq4.xyz/llq/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
+{"钥匙":"韩国小姐姐","名称":"韩国小姐姐","类型":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"https://www.xjiejie.cc/","请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","主页url":"https://www.xiaojiejie.icu","数组":"stui-vodlist__thumb lazyload&&</a","图片":"style=*url(&&)","标题":"title=\"&&\"","副标题":"text-right\">&&</span>","简介":"description\" content=\"&&剧情","链接":"href=\"&&\"","跳转播放链接":"var player_*\"url\":\"&&\"","搜索模式":"1","搜索url":"https://www.xiaojiejie.icu/search/{wd}----------{pg}---.html","分类二次截取":"","分类数组":"<a&&/a","分类标题":">&&<","分类ID":"/nvshen/&&.html","分类url":"https://www.xiaojiejie.icu/nvshen/{cateId}-{catePg}.html;;z"}},
 
 {
-            "key": "3000AV",
-            "name": "🍁3000AV",
-            "type": 3,
-            "api": "csp_XBPQ","jar":"http://mgz.eoes.top/down.php/fd3cefc7302f3a39a442682f802b11e5.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {"请求头":"手机","站名":"","主页url":"https://sx.sqmfav-ebvq.buzz/duoziyuan/laosebi/","数组":"thumbnail\"&&</div></li>", 
-"标题":"_blank\">&&</a></h5>",
-"副标题":"<span class=\"title\">&&</span>","图片":"data-original=\"&&\"","简介": "description\" content=\"&&>",
+            "钥匙": " 3000安培",
+            "名称": "🍁3000伏",
+            "类型": 3,
+            " api ": " csp_XBPQ ",“罐子”:" http://mgz . eoes . top/down . PHP/FD 3 cefc 7302 F3 a 39 a 442682 f 802 b11e 5 . jar ",
+            "可搜索": 1,
+            "快速搜索": 1,
+            "可过滤": 1,
+            "分机": {"请求头":"手机","站名":"","主页url":"https://sx.sqmfav-ebvq.buzz/duoziyuan/laosebi/","数组":"thumbnail\"&&</div></li>", 
+"标题":" _blank ">&&</a></h5 > ",
+"副标题":" < span class= "title ">&&</span > ","图片":"data-original=\"&&\"","简介": "description\" content=\"&&>",
                 "链接": "href=\"&&\"[替换:detail>>play#.html>>/sid/1/nid/1.html]",
 "免嗅":"1","直接播放":"1","搜索url":"https://cxvc.sqmfav-ebvq.buzz/duoziyuan/laosebi/index.php/vod/search/page/{pg}/wd/{wd}.html","嗅探词":".m3u8#.mp4", "分类url":"https://you.sqmfav-ebvq.buzz/duoziyuan/aosika/index.php/vod/type/id/{cateId}/page/{catePg}.html","分类数组":"<dd&&/dd>","分类标题": ">&&/a>", 
 "分类ID":"href=\"/duoziyuan/laosebi/index.php/vod/type/id/&&.html"} },
